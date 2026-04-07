@@ -1,76 +1,100 @@
-# hey 👋 i'm tripti
+<h1 align="center">hey 👋 i'm tripti</h1>
 
-final year @ IIT Madras (Data Science)  
-i build stuff with AI + code and somehow make it work 🚀  
+<p align="center">
+  <i>building cool stuff with AI + code ✨</i>
+</p>
 
----
+<p align="center">
+  final year @ IIT Madras • data science  
+</p>
 
-## 🧠 about me
-
-i like building things that actually *do something*  
-not just notebooks, but real apps people can use  
-
-lately, i've been mixing **AI + full-stack** to build products that:
-- understand code
-- generate content
-- and sometimes read emotions 👀  
-
-i learn fast, break things, fix them, and repeat  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=AI+%2B+Full-Stack+Developer;I+turn+ideas+into+products;learning+something+new+everyday" />
+</p>
 
 ---
 
-## 🚀 things i've built
+## 🌷 about me
 
-### 🔹 RepoExplain  
-an AI tool that reads github repos and explains them like a human  
-→ plus you can literally chat with the code  
+i like building things that actually *work*  
+not just theory — real apps, real users  
 
-tech: next.js + gemini api  
+right now i'm exploring the space where  
+**AI meets product + full-stack engineering**
+
+i learn fast, build fast, and improve along the way 🚀  
+
+---
+
+## 💻 things i've built
+
+### ✦ RepoExplain  
+> AI tool that reads GitHub repos & explains them like a human  
+
+`next.js` `gemini api`  
 🔗 https://repoexplain.vercel.app/
 
 ---
 
-### 🔹 AI ATS Resume Builder  
-paste a job description → get a tailored resume + score  
+### ✦ AI ATS Resume Builder  
+> generates + scores resumes using LLMs  
 
-tech: MERN + llama3  
+`mern` `llama3`  
 🔗 https://github.com/triptikumari710/ai-ats-resume-builder  
 
 ---
 
-### 🔹 Emoji AI Detector  
-real-time emotion + gesture detection (yes, it watches you 👁️)  
+### ✦ Emoji AI Detector  
+> real-time emotion + gesture detection 👁️  
 
-tech: pytorch + opencv + mediapipe  
+`pytorch` `opencv` `mediapipe`  
 🔗 https://github.com/triptikumari710/emoji_AI_app  
 
 ---
 
-## 🛠️ what i use
+## ⚙️ tech i vibe with
 
-python · javascript · typescript  
-fastapi · next.js · node.js  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,mongodb,git" />
+</p>
 
-ml stuff: pandas · numpy · scikit-learn  
-ai stuff: llms · huggingface · openai/gemini  
-
----
-
-## 🌱 right now
-
-trying to get better at:
-- building smarter AI systems  
-- writing cleaner backend code  
-- and not overthinking everything  
+<p align="center">
+  ml · pandas · numpy · scikit-learn  
+  <br/>
+  ai · llms · huggingface · openai · gemini  
+</p>
 
 ---
 
-## 🤝 let's connect
+## 🌱 currently
 
-linkedin: https://www.linkedin.com/in/tripti-jha-76153b289  
-portfolio: https://website-theta-ochre-35.vercel.app/  
+- building smarter AI apps  
+- improving backend systems  
+- trying not to overthink everything  
 
 ---
 
-⭐ if you find something cool here, drop a star  
-(or just say hi, that works too)
+## 📊 github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=triptikumari710&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=triptikumari710&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tripti-jha-76153b289">linkedin</a> •
+  <a href="https://website-theta-ochre-35.vercel.app/">portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ if you like my work, drop a star or say hi  
+</p>
