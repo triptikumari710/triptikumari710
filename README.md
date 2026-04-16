@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=I+build+real-world+AI+products;Machine+Learning+%7C+LLMs+%7C+Backend;Turning+ideas+into+scalable+systems" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=triptikumari710&label=Profile+Views&color=ff69b4&style=flat" />
-</p>
 
 ---
 
